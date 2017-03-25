@@ -5,7 +5,7 @@ This is a simple Java 8 Servlet Demo.
 ## Requirements 
 
 - Tomcat 8.0.x (higher versions not tested)
-- Oracle Java JDK 8 (Open JDK not tested)
+- Oracle Java JDK 8 (Open JDK and lower than version 8 not tested)
 - Eclipse Mars (my IDE, this is optional)
 
 
